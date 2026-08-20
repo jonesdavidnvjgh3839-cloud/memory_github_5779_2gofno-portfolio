@@ -1,13 +1,14 @@
 # Welcome to My Portfolio
 
 ## About Me
-I am PLACEHOLDER_NAME, PLACEHOLDER_ROLE at Brightpath Studio.
+I am Jordan Lee, Account Manager at Brightpath Studio.
 
 ## Focus Area
-Focus industry: PLACEHOLDER_INDUSTRY
+Focus industry: retail
 
 ## Managed Clients
-- TBD
+- delta-energy
+- gamma-retail
 
 ## Contact
-Email: PLACEHOLDER_EMAIL
+Email: jordan.lee@brightpath.studio
