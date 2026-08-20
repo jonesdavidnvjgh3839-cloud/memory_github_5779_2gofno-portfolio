@@ -1,8 +1,9 @@
-# Project Status: SAMPLE CLIENT
+# Project Status: Delta Energy
 
-- Client: delta-energy
+- Client: Delta Energy
 - Industry: energy
-- Status: sample
-- Project: SAMPLE PROJECT
-- Managed By: TBD
+- Status: onboarding
+- Project: Smart Meter Rollout
+- Annual Budget: 150000
+- Managed By: Jordan Lee
 - Featured: no
