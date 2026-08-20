@@ -1,0 +1,41 @@
+{
+  "site": {
+    "name": "Brightpath Portfolio",
+    "owner": {
+      "name": "PLACEHOLDER_NAME",
+      "role": "PLACEHOLDER_ROLE",
+      "email": "PLACEHOLDER_EMAIL"
+    },
+    "theme": {
+      "name": "PLACEHOLDER_THEME",
+      "primary": "#000000",
+      "secondary": "#000000",
+      "accent": "#000000"
+    },
+    "focus_industry": "PLACEHOLDER_INDUSTRY",
+    "featured_clients": [],
+    "managed_clients": []
+  },
+  "clients": [
+    {
+      "name": "alpha-media",
+      "industry": "media"
+    },
+    {
+      "name": "beta-solutions",
+      "industry": "technology"
+    },
+    {
+      "name": "gamma-retail",
+      "industry": "retail"
+    },
+    {
+      "name": "delta-energy",
+      "industry": "energy"
+    },
+    {
+      "name": "epsilon-health",
+      "industry": "healthcare"
+    }
+  ]
+}
