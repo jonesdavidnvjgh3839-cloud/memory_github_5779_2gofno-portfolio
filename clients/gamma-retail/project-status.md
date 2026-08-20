@@ -1,8 +1,9 @@
-# Project Status: SAMPLE CLIENT
+# Project Status: Gamma Retail
 
-- Client: gamma-retail
+- Client: Gamma Retail
 - Industry: retail
-- Status: sample
-- Project: SAMPLE PROJECT
-- Managed By: TBD
-- Featured: no
+- Status: active
+- Project: E-commerce Replatforming
+- Annual Budget: 240000
+- Managed By: Jordan Lee
+- Featured: yes
